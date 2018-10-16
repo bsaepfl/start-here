@@ -9,6 +9,8 @@ Quick guide if you want to help us in any way
 
 [Here](https://www.youtube.com/watch?v=bBC-nXj3Ng4) is a great video on the topic.
 
+To learn more about the why of Bitcoin: “The Internet of Money” (_Andrea M. Antonopoulos_) [vol.1](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454) and [vol.2](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/194791006X/). Very interesting and highly recommended.
+
 Learn what [smart-contracts](https://en.wikipedia.org/wiki/Smart_contract) are.
 
 [Here](https://ethereum.org/) is the Ethereum website, in which you will quickly understand what it is about.
@@ -18,6 +20,8 @@ Learn what [smart-contracts](https://en.wikipedia.org/wiki/Smart_contract) are.
 ### Advanced Stuff
 
 The [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf).
+
+A must read to understand the Bitcoin protocol: [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/) (_Andrea M. Antonopoulos_)
 
 The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf).
 
