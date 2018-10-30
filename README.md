@@ -37,6 +37,20 @@ The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_n
 - [Plasma](https://plasma.io/plasma.pdf) - Scalable Autonomous Smart Contracts
 - [Plasma Cash](https://www.youtube.com/watch?v=uyuA11PDDHE)
 
+#### Payment channels :
+- [BOLT](https://z.cash/blog/bolt-private-payment-channels) - Private Payment Channels
+- [The Bitcoin Lightning Network](https://lightning.network/lightning-network-paper.pdf)
+- [Curated list of lightning network resources](https://github.com/bcongdon/awesome-lightning-network)
+
+#### Zero-knowledge Proofs:
+- [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+- [Non-interactive zero-knowledge proof](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof)
+- [Zero Knowledge Proofs: An illustrated primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+- [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+- Serie of articles by Vitalik [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627), [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+
+
+
 ## Web Development
 
 ### Learn Javascript
