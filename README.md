@@ -3,7 +3,6 @@ Quick guide if you want to help us in any way
 
 ## The Blockchain
 
-### For Beginners
 
 [Here](http://blockchain.mit.edu/how-blockchain-works/) is an awesome website to understand and interact with a blockchain.
 
@@ -25,7 +24,18 @@ A must read to understand the Bitcoin protocol: [Mastering Bitcoin](https://www.
 
 The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf).
 
+## Related
 
+#### Smart Contracts :
+- [Solidity Doc](https://solidity.readthedocs.io/en/latest/)
+- [Vyper Doc](https://vyper.readthedocs.io/en/latest/)
+- [Hawk](https://eprint.iacr.org/2015/675.pdf) - Privacy-Preserving Blockchain and Smart Contracts
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - A library for secure smart contract development
+
+
+#### Plasma :
+- [Plasma](https://plasma.io/plasma.pdf) - Scalable Autonomous Smart Contracts
+- [Plasma Cash](https://www.youtube.com/watch?v=uyuA11PDDHE)
 
 ## Web Development
 
