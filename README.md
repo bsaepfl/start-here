@@ -17,13 +17,15 @@ Learn what [smart-contracts](https://en.wikipedia.org/wiki/Smart_contract) are.
 
 [CryptoZombies](https://cryptozombies.io/) is a very ludic way of learning how to write ethereum smart contracts.
 
-### Advanced Stuff
+[The Ethernaut](https://ethernaut.zeppelin.solution) is a very ludic way of learning security in smart contracts
 
 The [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf).
 
 A must read to understand the Bitcoin protocol: [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/) (_Andrea M. Antonopoulos_)
 
 The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf).
+
+
 
 ## Web Development
 
