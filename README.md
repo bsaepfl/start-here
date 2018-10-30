@@ -24,7 +24,7 @@ A must read to understand the Bitcoin protocol: [Mastering Bitcoin](https://www.
 
 The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf).
 
-## Related
+### Related
 
 #### Smart Contracts :
 - [Solidity Doc](https://solidity.readthedocs.io/en/latest/)
