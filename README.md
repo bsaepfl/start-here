@@ -49,7 +49,18 @@ The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_n
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
 - Serie of articles by Vitalik [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627), [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649), [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 
-
+#### Divers :
+- [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
+- [Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Curated list of cryptography resources](https://github.com/sobolevn/awesome-cryptography)
+- [Deniable encryption](https://en.wikipedia.org/wiki/Deniable_encryption)
+- [Simple Schnorr Multi-Signatures with Applications to Bitcoin](https://eprint.iacr.org/2018/068.pdf)
+- [Snowflake to Avalanche](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) - A Novel Metastable Consensus Protocol Family forCryptocurrencies
+- [Bulletproofs](https://eprint.iacr.org/2017/1066.pdf) - Short Proofs for Confidential Transactions and More
+- [CryptoNote](https://cryptonote.org/whitepaper.pdf)
+- [TrueBit](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) - A scalable verification solution for blockchains
+- [Mimble Wimble](http://mimblewimble.cash/20160719-OriginalWhitePaper.txt)
+- [Swarm](https://swarm-guide.readthedocs.io/en/latest/) - a distributed storage platform and content distribution network, a native base layer service of the Ethereum web3 stack
 
 ## Web Development
 
