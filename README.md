@@ -1,28 +1,35 @@
 # start-here
 Quick guide if you want to help us in any way
 
-## The Blockchain
+## Blockchain
 
 
 [Here](http://blockchain.mit.edu/how-blockchain-works/) is an awesome website to understand and interact with a blockchain.
 
 [Here](https://www.youtube.com/watch?v=bBC-nXj3Ng4) is a great video on the topic.
 
+## Bitcoin
+
 To learn more about the why of Bitcoin: “The Internet of Money” (_Andrea M. Antonopoulos_) [vol.1](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454) and [vol.2](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/194791006X/). Very interesting and highly recommended.
-
-Learn what [smart-contracts](https://en.wikipedia.org/wiki/Smart_contract) are.
-
-[Here](https://ethereum.org/) is the Ethereum website, in which you will quickly understand what it is about.
-
-[CryptoZombies](https://cryptozombies.io/) is a very ludic way of learning how to write ethereum smart contracts.
-
-[The Ethernaut](https://ethernaut.zeppelin.solution) is a very ludic way of learning security in smart contracts
 
 The [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf).
 
+This [website](https://www.lopp.net/bitcoin-information.html) to learn more about a lot of different aspects about Bitcoin
+
 A must read to understand the Bitcoin protocol: [Mastering Bitcoin](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/) (_Andrea M. Antonopoulos_)
 
+## Ethereum
+
+[Here](https://ethereum.org/en/what-is-ethereum/) is the Ethereum website, in which you will quickly understand what it is about.
+
+[Ethhub.io](https://docs.ethhub.io/) providing a lot of curated content on ethereum
+
 The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf).
+
+[CryptoZombies](https://cryptozombies.io/) is a very ludic way of learning how to write ethereum smart contracts.
+
+[The Ethernaut](https://ethernaut.openzeppelin.com/) is a very ludic way of learning security in smart contracts
+
 
 ### Related
 
@@ -31,6 +38,13 @@ The [Ethereum white paper](http://blockchainlab.com/pdf/Ethereum_white_paper-a_n
 - [Vyper Doc](https://vyper.readthedocs.io/en/latest/)
 - [Hawk](https://eprint.iacr.org/2015/675.pdf) - Privacy-Preserving Blockchain and Smart Contracts
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity) - A library for secure smart contract development
+
+
+#### Decentralized Finance (DeFi):
+- [What is Decentralized Finance](https://cryptotesters.com/blog/what-is-decentralized-finance)
+- [DEFI Pulse website](https://defipulse.com/) - To have different statistics about this ecosystem
+- [TokenBrice blog](https://tokenbrice.xyz/)
+- [The Bankless newsletter](https://banklessfr.substack.com/)
 
 
 #### Plasma :
